@@ -32,12 +32,12 @@ p{
 .title a{
     position: absolute;
 }
-.title a.forking{
+.title a.Close{
     left: 66%;
     top: -20px;
     rotate: -18deg;
 }
-.title a.paths{
+.title a.Away{
     left: 78%;
     top: 30px;
     rotate: 22deg;
